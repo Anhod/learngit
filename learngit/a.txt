@@ -1,2 +1,2 @@
 1.add a.txt master 1
-2.add a.txt dev 1
+2.Creating a new branch is quick & simple. master 2
